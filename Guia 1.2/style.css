@@ -1,0 +1,33 @@
+*{
+
+	text-align: center;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	width: 100%;
+	box-sizing: border-box;
+	font-family: 'Antic', sans-serif;
+
+}
+
+.wrapper{
+
+	width: 1000px;
+	margin: 0  auto;
+
+}
+
+li{
+	display: inline;
+	margin: 0 50px;
+}
+
+hr{
+
+	margin: 0;
+
+}
+
+h1,h2,h3,h4,h5{
+
+	font-family: 'Bungee', cursive;
+}
