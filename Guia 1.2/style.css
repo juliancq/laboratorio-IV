@@ -13,7 +13,47 @@
 
 	width: 1000px;
 	margin: 0  auto;
+	opacity: 90%;
+}
 
+header{
+
+	background-color: #f8f1f1;
+	height: 100px; 
+	line-height: 100px
+}
+
+nav{
+	background-color: #d2c8c8;
+	height: 30px; 
+	line-height: 30px
+}
+
+aside{
+	background-color: #d2c8c8; 
+	float: left; 
+	width: 250px; 
+	height: 600px;
+}
+
+section{
+	background-color: #94aa2a;
+	float: left; 
+	width: 750px; 
+	height: 600px
+}
+
+article{
+	margin: 10px; 
+	width: 700px
+}
+
+footer{
+	background-color: #557571; 
+	text-align: right; 
+	color: white; 
+	height: 30px; 
+	line-height: 30px
 }
 
 li{
@@ -27,7 +67,15 @@ hr{
 
 }
 
-h1,h2,h3,h4,h5{
+h1,h2,h3,h4,h5,a{
 
 	font-family: 'Bungee', cursive;
+}
+
+a{
+	color: black;
+}
+
+a:hover{
+	color: #94aa2a;
 }
