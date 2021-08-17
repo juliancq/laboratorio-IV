@@ -6,14 +6,34 @@
 	width: 100%;
 	box-sizing: border-box;
 	font-family: 'Antic', sans-serif;
+	
+}
 
+.productclass{
+
+	background-color: black;
+	width:200px;
+	height: 150px;
+	padding: 10px;
+	text-align: center;
+	line-height: 130px;
+	float: left;
+	margin: 40px;
+	color: white;
+	border-radius: 90px;
+	
+}
+
+.productclass:hover{
+
+	color: #94aa2a;
 }
 
 .wrapper{
 
 	width: 1000px;
 	margin: 0  auto;
-	opacity: 91%;
+	opacity: 90%;
 }
 
 header{
@@ -26,7 +46,7 @@ header{
 nav{
 	background-color: #d2c8c8;
 	height: 30px; 
-	line-height: 30px
+	line-height: 30px;
 }
 
 aside{
@@ -67,13 +87,13 @@ hr{
 
 }
 
-h1,h2,h3,h4,h5,a{
+h1,h2,h3,h4,h5{
 
 	font-family: 'Bungee', cursive;
 }
 
 a{
-	color: black;
+	color:black;
 }
 
 a:hover{
